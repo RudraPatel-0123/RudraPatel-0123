@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student who likes code and Machines<br>Specialisation in AI/Ml with a strong interest in building intelligent and data driven solutions <br>Passionate about apply machine learning to solve real world problems<br>Continuously Learning and developing skills in programming, data analysis and modern Ai tools<br>
+😎Student who likes code and Machines<br>Specialisation in AI/Ml with a strong interest in building intelligent and data driven solutions <br>🤖Passionate about apply machine learning to solve real world problems<br>🎓Continuously Learning and developing skills in programming, data analysis and modern Ai tools<br>
 
 
 ## 🌐 Socials:
